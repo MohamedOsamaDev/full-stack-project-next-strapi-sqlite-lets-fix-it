@@ -1,0 +1,27 @@
+{
+  "collectionName": "components_landing_landings",
+  "info": {
+    "displayName": "landing"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "sec_title": {
+      "type": "string"
+    },
+    "sec_description": {
+      "type": "text"
+    },
+    "description": {
+      "type": "text"
+    },
+    "tages": {
+      "displayName": "tages",
+      "type": "component",
+      "repeatable": true,
+      "component": "tages.tages"
+    }
+  }
+}

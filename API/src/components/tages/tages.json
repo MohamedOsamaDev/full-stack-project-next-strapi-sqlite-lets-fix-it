@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_tages_tages",
+  "info": {
+    "displayName": "tages"
+  },
+  "options": {},
+  "attributes": {
+    "tag": {
+      "type": "string"
+    }
+  }
+}
